@@ -45,8 +45,8 @@ body {
 
 .ref-btn {
   border: solid #8b1717 1px;
-  color: #8b1717;
-  background-color: rgba(0, 0, 0, 0.1);
+  color: #B29600;
+  background-color: #8b1717;
 }
 
 .col-md-4 {
@@ -59,7 +59,7 @@ body {
   width: 350px;
   background-color: rgba(0, 0, 0, 0.2);
   border: solid #B29600 2px;
-  color: #8b1717;
+  color: black;
 }
 
 h3 {
